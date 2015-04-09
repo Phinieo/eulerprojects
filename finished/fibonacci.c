@@ -16,5 +16,5 @@ fib1 = fib2;
 fib2 = fib3;
 
 }
-printf("the total of all even numers in the fibonacci sequence under 4 million is %d\n", fibtot);
+printf("The total of all even numbers in the fibonacci sequence under 4 million is %d\n", fibtot);
 }
